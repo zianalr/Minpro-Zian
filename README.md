@@ -61,17 +61,25 @@ Jika Penyakit = Ada atau Kondisi Fisik = Luka, maka akan muncul output Ikan Cupa
 
 ![img alt](https://github.com/zianalr/Minpro-Zian/blob/d5cd19b60c2b96e2cdfc4d4d15c210d0f16278c3/Screenshot%202025-09-14%20214231.png)
 
+Jika Tidak, maka akan muncul output Ikan Cupang Layak Ikut Kontes, lalu akan muncul output Ikan Cupang  Ditambahkan ke Daftar Lolos Validasi Kelayakan              Kontes, lalu akan muncul output Daftar Lolos Validasi Kelayakan Kontes. Setelah itu akan kembali ke menu awal
+
 ![img alt](https://github.com/zianalr/Minpro-Zian/blob/c5f2201c1335fa83eee4b4da6d517a19b25b6fb1/Screenshot%202025-09-14%20214242.png)
+
+Jika Jenis Ikan Cupang Tidak ada di List Jenis Ikan Cupang, maka muncul output 
 
 
 Hasil output menu 5
 
 ![img alt](https://github.com/zianalr/Minpro-Zian/blob/cc47cfbab81852f65a3ff14e626f14862003523b/Screenshot%202025-09-14%20214313.png)
 
+Jika user menginput 5, maka program akan berhenti
+
 
 Hasil output menu jika input tidak valid
 
 ![img alt](https://github.com/zianalr/Minpro-Zian/blob/a9518257e25bc774d19de6aec5c922a4c1bc2703/Screenshot%202025-09-14%20221507.png)
+
+Jika user menginput selain (1-5) maka akan muncul output Error. Setelah itu akan kembali ke menu awal
 
 
 
