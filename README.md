@@ -61,7 +61,7 @@ Hasil output menu 5
 
 Hasil output menu jika input tidak valid
 
-![img alt](<img width="432" height="221" alt="image" src="https://github.com/user-attachments/assets/4ee60678-5298-43e4-a30b-63ce4a35636f" />
+![img alt](https://github.com/zianalr/Minpro-Zian/blob/a9518257e25bc774d19de6aec5c922a4c1bc2703/Screenshot%202025-09-14%20221507.png)
 
 
 
