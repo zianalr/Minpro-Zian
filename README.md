@@ -31,12 +31,15 @@ Penjelasan Flowchart
 Hasil output menu 1
 
 ![img alt](https://github.com/zianalr/Minpro-Zian/blob/cadfb6409ebdc6f46971e6370e70d723161fa849/Screenshot%202025-09-14%20213904.png)
+
 Jika user menginput 1 maka akan muncul output List Jenis Ikan. Setelah itu akan kembali ke menu awal
 
 
 Hasil output menu 2
 
 ![img alt](https://github.com/zianalr/Minpro-Zian/blob/a791a9e519b04cb5e07ca464d82f2c0c21795830/Screenshot%202025-09-14%20214007.png)
+
+Jika user menginput 2 maka akan muncul input Masukkan Jenis Cupang, lalu muncul output Anda Telah Menambahkan Ikan Cupang Baru, lalu akan muncul output List        Jenis Ikan Cupang + Ikan Cupang Baru. Setelah itu akan kembali ke menu awal
 
 
 Hasil output menu 3
