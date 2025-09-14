@@ -14,15 +14,15 @@ Penjelasan Flowchart
                         Keluar
 3.	Muncul input untuk memilih menu dengan menginput (1-5)
 4.	Jika user menginput 1 maka akan muncul output List Jenis Ikan. Setelah itu akan kembali ke menu awal
-5.	Jika user menginput 2 maka akan muncul input Masukkan Jenis Cupang, lalu muncul output Anda Telah Menambahkan Ikan Cupang Baru, lalu akan muncul output List Jenis Ikan Cupang + Ikan Cupang Baru. Setelah itu akan kembali ke menu awal
+5.	Jika user menginput 2 maka akan muncul input Masukkan Jenis Cupang, lalu muncul output Anda Telah Menambahkan Ikan Cupang Baru, lalu akan muncul output List        Jenis Ikan Cupang + Ikan Cupang Baru. Setelah itu akan kembali ke menu awal
 6.	Jika user menginput 3 maka akan muncul input Masukkan Jenis Ikan Cupang Yang Ingin Disingkirkan, Setelah itu akan muncul decision:
-A.	Jika Ikan Cupang ada di List Jenis Ikan Cupang, maka akan muncul output Ikan Cupang Telah Disingkirkan + List Jenis Ikan Cupang. Setelah itu akan kembali ke menu awal
-B.	Jika Tidak, maka akan muncul output Ikan Cupang Tidak Valid. Setelah itu akan kembali ke menu awal
+    A.	Jika Ikan Cupang ada di List Jenis Ikan Cupang, maka akan muncul output Ikan Cupang Telah Disingkirkan + List Jenis Ikan Cupang. Setelah itu akan kembali           ke menu awal
+    B.	Jika Tidak, maka akan muncul output Ikan Cupang Tidak Valid. Setelah itu akan kembali ke menu awal
 7.	Jika user menginput 4 maka akan muncul input Jenis Ikan Cupang, Setelah itu akan muncul decision:
-A.	Jika Jenis Ikan ada di List Jenis Ikan Cupang, maka akan muncul Input Umur(Bulan), Input Penyakit(Ada/Tidak Ada),  Input Kondisi Fisik(Luka/Normal) setelah itu akan muncul decision lagi:
-1.	Jika Penyakit = Ada atau Kondisi Fisik = Luka, maka akan muncul output Ikan Cupang Tidak Layak Ikut Kontes. Setelah itu akan kembali ke menu awal
-2.	Jika Tidak, maka akan muncul output Ikan Cupang Layak Ikut Kontes, lalu akan muncul output Ikan Cupang  Ditambahkan ke Daftar Lolos Validasi Kelayakan Kontes, lalu akan muncul output Daftar Lolos Validasi Kelayakan Kontes. Setelah itu akan kembali ke menu awal
-B.	Jika Tidak, maka akan muncul ouput  Ikan Cupang Tidak Valid. Setelah itu akan kembali ke menu awal.
+    A. Jika Jenis Ikan ada di List Jenis Ikan Cupang, maka akan muncul Input Umur(Bulan), Input Penyakit(Ada/Tidak Ada),  Input Kondisi Fisik(Luka/Normal) setelah         itu akan muncul decision lagi:
+       1.	Jika Penyakit = Ada atau Kondisi Fisik = Luka, maka akan muncul output Ikan Cupang Tidak Layak Ikut Kontes. Setelah itu akan kembali ke menu awal
+       2.	Jika Tidak, maka akan muncul output Ikan Cupang Layak Ikut Kontes, lalu akan muncul output Ikan Cupang  Ditambahkan ke Daftar Lolos Validasi Kelayakan              Kontes, lalu akan muncul output Daftar Lolos Validasi Kelayakan Kontes. Setelah itu akan kembali ke menu awal
+    B. Jika Tidak, maka akan muncul ouput  Ikan Cupang Tidak Valid. Setelah itu akan kembali ke menu awal.
 8.	Jika user menginput 5, maka program akan berhenti
 9.	Jika user menginput selain (1-5) maka akan muncul output Error. Setelah itu akan kembali ke menu awal
 
@@ -57,6 +57,12 @@ Hasil output menu 4
 Hasil output menu 5
 
 ![img alt](https://github.com/zianalr/Minpro-Zian/blob/cc47cfbab81852f65a3ff14e626f14862003523b/Screenshot%202025-09-14%20214313.png)
+
+
+Hasil output menu jika input tidak valid
+
+![img alt](<img width="432" height="221" alt="image" src="https://github.com/user-attachments/assets/4ee60678-5298-43e4-a30b-63ce4a35636f" />
+
 
 
 
