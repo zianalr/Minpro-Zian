@@ -31,6 +31,7 @@ Penjelasan Flowchart
 Hasil output menu 1
 
 ![img alt](https://github.com/zianalr/Minpro-Zian/blob/cadfb6409ebdc6f46971e6370e70d723161fa849/Screenshot%202025-09-14%20213904.png)
+Jika user menginput 1 maka akan muncul output List Jenis Ikan. Setelah itu akan kembali ke menu awal
 
 
 Hasil output menu 2
