@@ -46,7 +46,11 @@ Hasil output menu 3
 
 ![img alt](https://github.com/zianalr/Minpro-Zian/blob/d4201c2e0746aab5c94f007f9608070e773e1a0a/Screenshot%202025-09-14%20214040.png)
 
+Jika Ikan Cupang ada di List Jenis Ikan Cupang, maka akan muncul output Ikan Cupang Telah Disingkirkan + List Jenis Ikan Cupang. Setelah itu akan kembali           ke menu awal
+
 ![img alt](https://github.com/zianalr/Minpro-Zian/blob/a33fceb1580b7a90ce09ff1cbc9f36d8a2d4c3af/Screenshot%202025-09-14%20214141.png)
+
+Jika Tidak, maka akan muncul output Ikan Cupang Tidak Valid. Setelah itu akan kembali ke menu awal
 
 
 Hasil output menu 4
