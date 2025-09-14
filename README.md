@@ -57,6 +57,8 @@ Hasil output menu 4
 
 ![img alt](https://github.com/zianalr/Minpro-Zian/blob/4efc5cd458292885d65595c52071cda09ddd8c2a/Screenshot%202025-09-14%20214204.png)
 
+Jika Penyakit = Ada atau Kondisi Fisik = Luka, maka akan muncul output Ikan Cupang Tidak Layak Ikut Kontes. Setelah itu akan kembali ke menu awal
+
 ![img alt](https://github.com/zianalr/Minpro-Zian/blob/d5cd19b60c2b96e2cdfc4d4d15c210d0f16278c3/Screenshot%202025-09-14%20214231.png)
 
 ![img alt](https://github.com/zianalr/Minpro-Zian/blob/c5f2201c1335fa83eee4b4da6d517a19b25b6fb1/Screenshot%202025-09-14%20214242.png)
